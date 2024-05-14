@@ -20,4 +20,4 @@ digit `1` is on it's place) and 2 `cows` (digits `3` and `4` are present but on
 wrong places).
 
 
-![Reference]([http://url/to/img.png](https://chizpizza.kh.ua/wp-content/uploads/2023/04/92804571.webp))
+![Reference](http://url/to/img.png](https://chizpizza.kh.ua/wp-content/uploads/2023/04/92804571.webp)
